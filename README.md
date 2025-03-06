@@ -10,7 +10,7 @@ In the current ridesharing scenario, finding a compatible passenger is highly ch
 ## Code Description
 
 ### 1. Small_Network_Analysis
-Analyze a small network based on New York City, with configurations like using weight or not for route prediction. 
+This code analyze a small network based on New York City, with configurations like using weight or not for route prediction. 
 ### 2. Data_Prediction_Multi_Task_Learning_V1
 This code creates an MTL model that is used to predict parameters. This is the first version of the model that we used.
 ### 3. Final_Test_Route_Optimization
@@ -18,4 +18,12 @@ This code creates the final version of the New York City model in Python and the
 
 ## Test results
 
-We have provided test results of two tests also.
+Provided test results of two tests also.
+
+## Map results
+
+Provided some open street map results that we got from our EDA
+
+## Dataset
+
+Provided all the important datasets.
