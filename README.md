@@ -18,7 +18,7 @@ This code creates the final version of the New York City model in Python and the
 
 ## Test results
 
-Provided test results of two tests also.
+Provided test results of tests also.
 
 ## Map results
 
